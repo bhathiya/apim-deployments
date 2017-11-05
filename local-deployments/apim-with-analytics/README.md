@@ -1,4 +1,4 @@
-# Local APIM + Analytics with MySQL (on Docker) deployment. 
+## Local APIM + Analytics with MySQL (on Docker) deployment. 
 
 > **Prerequisites:** Install mysql (5.7) client and docker.
 
