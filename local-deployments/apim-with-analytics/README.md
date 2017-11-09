@@ -5,6 +5,6 @@
 ## How to run?
 
 1. Copy WUM updated `wso2am-2.1.0` and `wso2am-analytics-2.1.0` packs to `apim-with-analytics` directory.
-2. Go inside `tool` directory and run `deploy-all.sh`
+2. Go inside `tool` directory and run `setup.sh`
 
 > **Note:** To tear down the setup, run `tear-down.sh`
